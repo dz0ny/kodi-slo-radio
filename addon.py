@@ -57,10 +57,18 @@ def startplay(id):
     li = xbmcgui.ListItem(station['name'], station['name'], station['img'], station['img'])
     li.setInfo('music', {'Title': station['name']})
     xbmc.Player(xbmc.PLAYER_CORE_MPLAYER).play(station['url'], li)
-
-    # Return an empty list so we can test with plugin.crawl() and plugin.interactive()
-
-    return []
+    item = [{
+        'label': station['name'],
+        'label2': station['label'],
+        'info': {'title': station['name'], 'size': int(station['bitrate'])},
+        'path': plugin.url_for('startplay', id=station['url']),
+        'icon': station['img'],
+        'thumbnail': station['img'],
+        'is_playable': True,
+        'selected': True,
+        'info_type': 'music',
+        }]
+    return item
 
 if __name__ == '__main__':
     plugin.run()
