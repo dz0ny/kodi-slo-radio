@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 import requests
-import simplejson
 import json
 from pyquery import PyQuery
 import pickle
+import codecs
 
 urls = ['http://tunein.com/search/page/?id=r101900&page=true&filter=!p',
         'http://tunein.com/search/page/?id=r101901&page=true&filter=!p',
@@ -34,8 +34,8 @@ for url in urls:
 
             if st['TitleSearch'] not in t_stations:
                 stations.append({
-                    'name': st['TitleSearch'],
-                    'label': st['Subtitle'],
+                    'name': unicode(st['TitleSearch']),
+                    'label': unicode(st['Subtitle']),
                     'img': st['SearchLogoUrl'],
                     'url': 'http://tunein.com' + st['Url'],
                     })
@@ -58,7 +58,7 @@ for station in stations:
                     ral_json = json.loads('{' + d_json + '}')
                     station['img'] = ral_json['Logo']
                     station['url'] = ral_json['StreamUrl']
-                    station['name'] = station['name'].split(' - ')[0]
+                    station['name'] = unicode(station['name'].split(' - ')[0])
 
 # get real ids
 
@@ -72,6 +72,8 @@ for station in stations:
             data = req.text[2:data.find('});') + 1]
             str_json = json.loads(data)
             station['url'] = str_json['Streams'][0]['Url']
+            station['bitrate'] = str_json['Streams'][0]['Bandwidth']
+            station['id'] = str_json['Streams'][0]['StreamId']
         print
 
 za_izvoz = []
@@ -83,17 +85,31 @@ for station in stations:
 
 za_izvoz.sort(key=lambda postaja: postaja['name'])
 
+# native
 
-jstat = open('stations.json', 'w')
-simplejson.dump(za_izvoz, jstat, sort_keys=True, indent=2)
-jstat.close()
+try:
+    pstat = open('stations.pickle', 'w')
+    pickle.dump(za_izvoz, pstat)
+except Exception, e:
+    print e
 
-m3u = '#EXTM3U\r\n'
-mstat = open('stations.m3u', 'w')
+# json
+
+try:
+    jstat = codecs.open('stations.json', 'w', 'utf-8')
+    json.dump(za_izvoz, jstat, sort_keys=True, indent=2)
+    jstat.close()
+except Exception, e:
+    print e
+
+# m3u
+
+mstat = codecs.open('stations.m3u', 'w', 'utf-8')
+print >> mstat, '#EXTM3U'
 for x in za_izvoz:
     try:
-        print >> mstat, '#EXTINF:1,' + x['name']
-        print >> mstat, x['url']
+        print >> mstat, '#EXTINF:' + x['name']
+        print >> mstat, x['url'] + '\n'
     except Exception, e:
         print e
 

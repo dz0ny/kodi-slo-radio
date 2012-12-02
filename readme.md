@@ -11,4 +11,4 @@ Prenesite [ZIP](https://github.com/dz0ny/xbmc-slo-radio/archive/master.zip) in g
 
 ## Bonus
 
-Radijske postaje za vaš priljubljen predvajalnik: https://github.com/dz0ny/xbmc-slo-radio/blob/master/resources/stations.m3u
+Radijske postaje za vaš priljubljen predvajalnik: [stations.m3u](https://raw.github.com/dz0ny/xbmc-slo-radio/master/resources/stations.m3u)

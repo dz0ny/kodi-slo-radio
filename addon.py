@@ -1,84 +1,62 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Copyright 2012 dz0ny
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-from xbmcswift import Plugin, download_page
-from xbmcswift.ext.playlist import playlist
+import xbmc
+from xbmcswift2 import Plugin, ListItem
+import xbmcaddon
 import os
-import utils
-try:
-    import json
-except ImportError:
-    import simplejson as json
-from xbmcswift import xbmc, xbmcgui
+import pickle
+import xbmc
+import xbmcgui
 
-__plugin__ = 'Slovenske radijske postaje'
-__plugin_id__ = 'plugin.audio.radio-slovenija'
-__addoninfo__ = utils.get_addoninfo(__plugin_id__)
-
-plugin = Plugin(__plugin__, __plugin_id__, __file__)
-
-plugin.register_module(playlist, url_prefix='/_playlist')
+plugin = Plugin()
 
 
-def get_streams():
-    filename = os.path.join(__addoninfo__['path'], 'resources', 'stations.json')
+def get_stations():
+    filename = os.path.join(xbmcaddon.Addon(plugin.id).getAddonInfo('path'), 'resources',
+                            'stations.pickle')
     src = open(filename, 'r')
     try:
-        resp = json.load(src)
+        streams = pickle.load(src)
     finally:
         src.close()
 
-    # Return a JSON list of the streams
-
-    return resp
+    return streams
 
 
-#### Plugin Views ####
+postaje = get_stations()
 
-# Default View
 
-@plugin.route('/', default=True)
-def show_homepage():
-    Streams = get_streams()
+@plugin.route('/')
+def index():
     items = []
-    for station in Streams:
+    for station in postaje:
         try:
             items.append({
                 'label': station['name'],
                 'label2': station['label'],
-                'url': plugin.url_for('startplay', URLStream=station['url'], Name=station['name'],
-                                      Icon=station['img']),
+                'info': {'title': station['name'], 'size': int(station['bitrate'])},
+                'path': plugin.url_for('startplay', id=station['url']),
+                'icon': station['img'],
                 'thumbnail': station['img'],
+                'is_playable': False,
+                'info_type': 'music',
                 })
         except Exception, e:
             print e
             print station
 
-    return plugin.add_items(items)
+    finish_kwargs = {'sort_methods': [('TITLE', '%X'), ('SIZE', '%X')]}
+
+    return plugin.finish(items, **finish_kwargs)
 
 
-@plugin.route('/live/<Name>/<URLStream>/<Icon>')
-def startplay(URLStream, Name, Icon):
-    rtmpurl = URLStream
-    Thumb = Icon
-    li = xbmcgui.ListItem(Name, Name, Thumb, Thumb)
-    li.setInfo('music', {'Title': Name})
-    xbmc.Player(xbmc.PLAYER_CORE_MPLAYER).play(rtmpurl, li)
+@plugin.route('/live/<id>')
+def startplay(id):
+    station = filter(lambda x: x['url'] == id, postaje)[0]
+    li = xbmcgui.ListItem(station['name'], station['name'], station['img'], station['img'])
+    li.setInfo('music', {'Title': station['name']})
+    xbmc.Player(xbmc.PLAYER_CORE_MPLAYER).play(station['url'], li)
 
     # Return an empty list so we can test with plugin.crawl() and plugin.interactive()
 
