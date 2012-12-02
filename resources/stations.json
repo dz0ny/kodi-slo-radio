@@ -1,0 +1,374 @@
+[
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s25579q.png",
+    "label": "Slovenian",
+    "name": "A1",
+    "url": "http://mp3.rtvslo.si/ra1"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106349q.png",
+    "label": "Slovenian",
+    "name": "Alpski Val Radio",
+    "url": "http://193.95.206.178:8000/alpskival"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s25580q.png",
+    "label": "Slovenian",
+    "name": "Ars",
+    "url": "http://mp3.rtvslo.si/ars"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10160q.png",
+    "label": "Slovenian",
+    "name": "Koroski Radio",
+    "url": "http://shoutcast.netsi.net:8300"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s48737q.png",
+    "label": "Libra Radio from Maribor Slovenia, unique...",
+    "name": "Libra Radio",
+    "url": "http://radio.pekarna.org:8000/libraradio.ogg"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s8674q.png",
+    "label": "Moj Radio obstaja v etru \u0160ale\u0161ke doline od...",
+    "name": "Moj Radio",
+    "url": "http://stream.linit.si:8006/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s66865q.png",
+    "label": "Pomurski Mad\u017earski Radio",
+    "name": "RTVSLO Muravid\u00e9ki Magyar R\u00e1di\u00f3 (RTVSLO MMR)",
+    "url": "http://mp3.rtvslo.si/mmr"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9615q.png",
+    "label": "Radio 1 - najbolj poslu\u0161an slovenski radio",
+    "name": "Radio 1",
+    "url": "mms://live3.infonetmedia.si/radio1"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106387q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Celje",
+    "url": "mms://live.radio1.si/Radio1CE"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s176291q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Dolenjska",
+    "url": "mms://live.radio1.si/Radio1NM"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s176287q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Koroska",
+    "url": "mms://live2.infonetmedia.si/radio1kor"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s176292q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Maribor",
+    "url": "mms://live.radio1.si/Radio1MB"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9387q.png",
+    "label": "Radio 1 - najbolj poslu\u0161an slovenski radio.",
+    "name": "Radio 1 Prekmurje",
+    "url": "01122012072756"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106535q.png",
+    "label": "novo za Ptuj",
+    "name": "Radio 1 Ptuj",
+    "url": "mms://live2.infonetmedia.si/radio1ptuj"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s176288q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Ribnica",
+    "url": "mms://live.radio1.si/Radio1Ribnica"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s176290q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Velenje",
+    "url": "mms://live.radio1.si/Radio1VE"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106545q.png",
+    "label": "Slovenian",
+    "name": "Radio 1 Vrhnika",
+    "url": "01122012072829"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106362q.png",
+    "label": "Slovenian",
+    "name": "Radio 94",
+    "url": "http://89.212.204.96:8000/hifi"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106417q.png",
+    "label": "Radio Aktual ponuja glasbo, ki jo na...",
+    "name": "Radio Aktual",
+    "url": "http://195.95.158.131:9040/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s6114q.png",
+    "label": "Slovenian",
+    "name": "Radio Alfa",
+    "url": "http://77.234.148.23:9020/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10248q.png",
+    "label": "Smo lokalna radijska postaja, sli\u0161na na...",
+    "name": "Radio Antena",
+    "url": "http://shoutcast.netsi.net:8250/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106523q.png",
+    "label": "Slovenian",
+    "name": "Radio Antena",
+    "url": "mms://live2.infonetmedia.si/Antena"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s18095q.png",
+    "label": "Italian",
+    "name": "Radio Capodistria",
+    "url": "http://mp3.rtvslo.si/capo"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9586q.png",
+    "label": "Na Stirih Frekvencah",
+    "name": "Radio Celje",
+    "url": "http://89.142.196.111:9030/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9916q.png",
+    "label": "The Best Music Mix for Slovenia",
+    "name": "Radio Center",
+    "url": "http://212.18.63.51:8050"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s16011q.png",
+    "label": "Slovenian",
+    "name": "Radio City",
+    "url": "http://citycast.colo.triera.net:9000/radiocity.mp3"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s25109q.png",
+    "label": "Slovenian",
+    "name": "Radio Dur",
+    "url": "http://ph.dur.si:80/dur"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9614q.png",
+    "label": "veliko glasbe, manj govora (more music, less...",
+    "name": "Radio Ekspres",
+    "url": "http://93.103.13.156:8000/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106505q.png",
+    "label": "Slovenian",
+    "name": "Radio Europa 05",
+    "url": "http://radio.amadej.si:8020/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9953q.png",
+    "label": "Slovenian",
+    "name": "Radio Gorenc",
+    "url": "http://193.95.229.142:8000/radiogorenc.ogg"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s8967q.png",
+    "label": "Slovenian",
+    "name": "Radio Hit",
+    "url": "http://live.radiohit.si:9560/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s37098q.png",
+    "label": "Slovenian",
+    "name": "Radio Koper",
+    "url": "http://94.103.65.137:8000/rakp"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9641q.png",
+    "label": "Slovenian",
+    "name": "Radio Kranj",
+    "url": "http://www.radio-kranj.si/radio_kranj.m3u"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s16015q.png",
+    "label": "Slovenian",
+    "name": "Radio Krka",
+    "url": "http://93.103.12.127:8000"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106458q.png",
+    "label": "Slovenian",
+    "name": "Radio Kum",
+    "url": "http://195.95.158.131:7010/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s25138q.png",
+    "label": "Slovenian",
+    "name": "Radio Laser",
+    "url": "http://shoutcast.netsi.net:8100/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s36090q.png",
+    "label": "Regionalni radijski program",
+    "name": "Radio Maribor",
+    "url": "http://mp3.rtvslo.si/rmb"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9303q.png",
+    "label": "Mariborski radio \u0161tudent (MARS)",
+    "name": "Radio Mars",
+    "url": "http://radio.pekarna.org:8000/radiomars"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106465q.png",
+    "label": "Slovenian",
+    "name": "Radio Maxi",
+    "url": "http://46.150.34.194:8010/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10960q.png",
+    "label": "Slovenian",
+    "name": "Radio Murski Val",
+    "url": "http://89.142.197.238:8000/mv.mp3"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s18092q.png",
+    "label": "Slovenian",
+    "name": "Radio Net FM",
+    "url": "01122012072804"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106467q.png",
+    "label": "PRIMORSKI VAL je prva slovenska radijska mre\u017ea...",
+    "name": "Radio Odmev",
+    "url": "http://odmev.radio-odmev.net:8000/hiq"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10601q.png",
+    "label": "Slovenian",
+    "name": "Radio Ognjisce (Radio Ognji\u0161ce)",
+    "url": "http://real.ognjisce.si:8000/ognjisce.mp3"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s167031q.png",
+    "label": "Zdravje s hitrostjo zvoka",
+    "name": "Radio PACIENT",
+    "url": "http://live.radiopacient.si/mp3"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s6084q.png",
+    "label": "Vedno Vec",
+    "name": "Radio Plus",
+    "url": "rtsp://90.157.145.55:554/broadcast/live.rm?cloakport=80,554,7070"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s48741q.png",
+    "label": "Slovenian",
+    "name": "Radio Ptuj",
+    "url": "http://stream.radio-ptuj.si:8000/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9689q.png",
+    "label": "Slovenian",
+    "name": "Radio Robin",
+    "url": "mms://live.infonetmedia.si/RadioRobin"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s105310q.png",
+    "label": "Slovenian",
+    "name": "Radio Rogla",
+    "url": "http://193.105.67.24:8010"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s16355q.png",
+    "label": "English",
+    "name": "Radio Salomon",
+    "url": "http://195.95.158.131:8050/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106556q.png",
+    "label": "Slovenian",
+    "name": "Radio Slovenske Gorice",
+    "url": "http://91.185.194.102:8014/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9368q.png",
+    "label": "Smo regionalna radijska postaja s statusom...",
+    "name": "Radio Sora",
+    "url": "http://www.radio-sora.si:8000/radio_sora.ogg"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106491q.png",
+    "label": "Slovenian",
+    "name": "Radio Sraka",
+    "url": "http://193.105.67.24:8006"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s1386q.png",
+    "label": "Slovenian",
+    "name": "Radio Stajerski Val",
+    "url": "http://arisa.onair.si:8004/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s25182q.png",
+    "label": "Slovenian",
+    "name": "Radio Student",
+    "url": "http://kruljo.radiostudent.si:8000/hiq"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s164797q.png",
+    "label": "Internetni radio z urbano godbo",
+    "name": "Radio Terminal",
+    "url": "http://test.radioterminal.si:8000/live"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9348q.png",
+    "label": "Slovenian",
+    "name": "Radio Top",
+    "url": "http://193.105.67.24:8024"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10362q.png",
+    "label": "Slovenian",
+    "name": "Radio Triglav",
+    "url": "http://www.radiotriglav.si:8000"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106493q.png",
+    "label": "Slovenian",
+    "name": "Radio Velenje",
+    "url": "http://212.18.39.42:8080/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s98796q.png",
+    "label": "Slovenian",
+    "name": "Radio Veseljak",
+    "url": "http://195.95.158.131:9060"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10066q.png",
+    "label": "Polni Pozitive",
+    "name": "Radio Zeleni",
+    "url": "http://212.72.102.17:8000"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106650q.png",
+    "label": "Slovenian",
+    "name": "Turisticni Radio Potepuh",
+    "url": "http://193.105.67.24:8094/"
+  },
+  {
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s25581q.png",
+    "label": "Ujame vse",
+    "name": "Val 202",
+    "url": "http://mp3.rtvslo.si/val202"
+  }
+]

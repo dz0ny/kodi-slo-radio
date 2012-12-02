@@ -1,0 +1,120 @@
+#EXTINF:1,A1
+http://mp3.rtvslo.si/ra1
+#EXTINF:1,Alpski Val Radio
+http://193.95.206.178:8000/alpskival
+#EXTINF:1,Ars
+http://mp3.rtvslo.si/ars
+#EXTINF:1,Koroski Radio
+http://shoutcast.netsi.net:8300
+#EXTINF:1,Libra Radio
+http://radio.pekarna.org:8000/libraradio.ogg
+#EXTINF:1,Moj Radio
+http://stream.linit.si:8006/
+#EXTINF:1,Radio 1
+mms://live3.infonetmedia.si/radio1
+#EXTINF:1,Radio 1 Celje
+mms://live.radio1.si/Radio1CE
+#EXTINF:1,Radio 1 Dolenjska
+mms://live.radio1.si/Radio1NM
+#EXTINF:1,Radio 1 Koroska
+mms://live2.infonetmedia.si/radio1kor
+#EXTINF:1,Radio 1 Maribor
+mms://live.radio1.si/Radio1MB
+#EXTINF:1,Radio 1 Prekmurje
+01122012072756
+#EXTINF:1,Radio 1 Ptuj
+mms://live2.infonetmedia.si/radio1ptuj
+#EXTINF:1,Radio 1 Ribnica
+mms://live.radio1.si/Radio1Ribnica
+#EXTINF:1,Radio 1 Velenje
+mms://live.radio1.si/Radio1VE
+#EXTINF:1,Radio 1 Vrhnika
+01122012072829
+#EXTINF:1,Radio 94
+http://89.212.204.96:8000/hifi
+#EXTINF:1,Radio Aktual
+http://195.95.158.131:9040/
+#EXTINF:1,Radio Alfa
+http://77.234.148.23:9020/
+#EXTINF:1,Radio Antena
+http://shoutcast.netsi.net:8250/
+#EXTINF:1,Radio Antena
+mms://live2.infonetmedia.si/Antena
+#EXTINF:1,Radio Capodistria
+http://mp3.rtvslo.si/capo
+#EXTINF:1,Radio Celje
+http://89.142.196.111:9030/
+#EXTINF:1,Radio Center
+http://212.18.63.51:8050
+#EXTINF:1,Radio City
+http://citycast.colo.triera.net:9000/radiocity.mp3
+#EXTINF:1,Radio Dur
+http://ph.dur.si:80/dur
+#EXTINF:1,Radio Ekspres
+http://93.103.13.156:8000/
+#EXTINF:1,Radio Europa 05
+http://radio.amadej.si:8020/
+#EXTINF:1,Radio Gorenc
+http://193.95.229.142:8000/radiogorenc.ogg
+#EXTINF:1,Radio Hit
+http://live.radiohit.si:9560/
+#EXTINF:1,Radio Koper
+http://94.103.65.137:8000/rakp
+#EXTINF:1,Radio Kranj
+http://www.radio-kranj.si/radio_kranj.m3u
+#EXTINF:1,Radio Krka
+http://93.103.12.127:8000
+#EXTINF:1,Radio Kum
+http://195.95.158.131:7010/
+#EXTINF:1,Radio Laser
+http://shoutcast.netsi.net:8100/
+#EXTINF:1,Radio Maribor
+http://mp3.rtvslo.si/rmb
+#EXTINF:1,Radio Mars
+http://radio.pekarna.org:8000/radiomars
+#EXTINF:1,Radio Maxi
+http://46.150.34.194:8010/
+#EXTINF:1,Radio Murski Val
+http://89.142.197.238:8000/mv.mp3
+#EXTINF:1,Radio Net FM
+01122012072804
+#EXTINF:1,Radio Odmev
+http://odmev.radio-odmev.net:8000/hiq
+#EXTINF:1,Radio PACIENT
+http://live.radiopacient.si/mp3
+#EXTINF:1,Radio Plus
+rtsp://90.157.145.55:554/broadcast/live.rm?cloakport=80,554,7070
+#EXTINF:1,Radio Ptuj
+http://stream.radio-ptuj.si:8000/
+#EXTINF:1,Radio Robin
+mms://live.infonetmedia.si/RadioRobin
+#EXTINF:1,Radio Rogla
+http://193.105.67.24:8010
+#EXTINF:1,Radio Salomon
+http://195.95.158.131:8050/
+#EXTINF:1,Radio Slovenske Gorice
+http://91.185.194.102:8014/
+#EXTINF:1,Radio Sora
+http://www.radio-sora.si:8000/radio_sora.ogg
+#EXTINF:1,Radio Sraka
+http://193.105.67.24:8006
+#EXTINF:1,Radio Stajerski Val
+http://arisa.onair.si:8004/
+#EXTINF:1,Radio Student
+http://kruljo.radiostudent.si:8000/hiq
+#EXTINF:1,Radio Terminal
+http://test.radioterminal.si:8000/live
+#EXTINF:1,Radio Top
+http://193.105.67.24:8024
+#EXTINF:1,Radio Triglav
+http://www.radiotriglav.si:8000
+#EXTINF:1,Radio Velenje
+http://212.18.39.42:8080/
+#EXTINF:1,Radio Veseljak
+http://195.95.158.131:9060
+#EXTINF:1,Radio Zeleni
+http://212.72.102.17:8000
+#EXTINF:1,Turisticni Radio Potepuh
+http://193.105.67.24:8094/
+#EXTINF:1,Val 202
+http://mp3.rtvslo.si/val202
