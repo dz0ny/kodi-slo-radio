@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.slovenskeradijskepostaje" name="Slovenske radijske postaje" version="0.1" provider-name="dz0ny">
+<addon id="plugin.audio.slovenskeradijskepostaje" name="Slovenske radijske postaje" version="1.1" provider-name="dz0ny">
   <requires>
     <import addon="xbmc.python" version="2.0"/>
     <import addon="script.module.xbmcswift2" version="1.1.1"/>
@@ -10,7 +10,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language></language>
-    <summary>Poslušajte vse Slovenske radijske psotaje.</summary>
-    <description>Omogoča poslušanje Slovenskih radijskih postaj , ki oddajajo preko interneta.</description>
+    <summary>Poslušajte vse Slovenske radijske postaje.</summary>
+    <description>Omogoča poslušanje Slovenskih radijskih postaj, ki oddajajo preko interneta.</description>
   </extension>
 </addon>

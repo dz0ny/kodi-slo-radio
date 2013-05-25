@@ -1,187 +1,193 @@
 #EXTM3U
-#EXTINF:A1
+#EXTINF:A1 91.8 (Community)
 http://mp3.rtvslo.si/ra1
 
-#EXTINF:Alpski Val Radio
+#EXTINF:Alpski Val Radio 88.3 (Top 40/Pop)
 http://193.95.206.178:8000/alpskival
 
-#EXTINF:Ars
+#EXTINF:Ars 96.5 (Culture)
 http://mp3.rtvslo.si/ars
 
-#EXTINF:Koroski Radio
+#EXTINF:Koroski Radio 97.2 (World Music)
 http://shoutcast.netsi.net:8300
 
-#EXTINF:Libra Radio
-http://radio.pekarna.org:8000/libraradio.ogg
+#EXTINF:Moj Radio 107.0 (Top 40/Pop)
+http://www.mojradio.com/mojradio.m3u
 
-#EXTINF:Moj Radio
-http://stream.linit.si:8006/
-
-#EXTINF:RTVSLO Muravidéki Magyar Rádió (RTVSLO MMR)
+#EXTINF:RTVSLO Muravidéki Magyar Rádió 87.6 (Community)
 http://mp3.rtvslo.si/mmr
 
-#EXTINF:Radio 1
+#EXTINF:Radio 1 89.7 (Euro Hits)
 mms://live3.infonetmedia.si/radio1
 
-#EXTINF:Radio 1 Celje
+#EXTINF:Radio 1 Bela krajina 89.5 (World Talk)
+http://live2.radio1.si/Radio1Odeon
+
+#EXTINF:Radio 1 Celje 90.3 (Hot AC)
 mms://live.radio1.si/Radio1CE
 
-#EXTINF:Radio 1 Dolenjska
+#EXTINF:Radio 1 Dolenjska 88.9
 mms://live.radio1.si/Radio1NM
 
-#EXTINF:Radio 1 Koroska
+#EXTINF:Radio 1 Koroska 105.0
 mms://live2.infonetmedia.si/radio1kor
 
-#EXTINF:Radio 1 Maribor
+#EXTINF:Radio 1 Maribor 107.9
 mms://live.radio1.si/Radio1MB
 
-#EXTINF:Radio 1 Prekmurje
+#EXTINF:Radio 1 Obala 93.4 (Hot AC)
+http://live.radio1.si/Radio1OBALA
+
+#EXTINF:Radio 1 Prekmurje 102.1 (Electronic and Dance)
 http://live2.infonetmedia.si/radio1pr
 
-#EXTINF:Radio 1 Ptuj
+#EXTINF:Radio 1 Ptuj 92.3 (Top 40/Pop)
 mms://live2.infonetmedia.si/radio1ptuj
 
-#EXTINF:Radio 1 Ribnica
+#EXTINF:Radio 1 Ribnica 89.8
 mms://live.radio1.si/Radio1Ribnica
 
-#EXTINF:Radio 1 Velenje
+#EXTINF:Radio 1 Velenje 102.5
 mms://live.radio1.si/Radio1VE
 
-#EXTINF:Radio 1 Vrhnika
+#EXTINF:Radio 1 Vrhnika 90.6 (News)
 http://live2.radio1.si/Radio1VR
 
-#EXTINF:Radio 94
+#EXTINF:Radio 94 98.2 (Variety)
 http://89.212.204.96:8000/hifi
 
-#EXTINF:Radio Aktual
+#EXTINF:Radio Aktual 101.2 (Top 40/Pop)
 http://195.95.158.131:9040/
 
-#EXTINF:Radio Alfa
+#EXTINF:Radio Alfa 103.2 (World Music)
 http://77.234.148.23:9020/
 
-#EXTINF:Radio Antena
-http://shoutcast.netsi.net:8250/
-
-#EXTINF:Radio Antena
+#EXTINF:Radio Antena 105.2 (Top 40/Pop)
 mms://live2.infonetmedia.si/Antena
 
-#EXTINF:Radio Capodistria
+#EXTINF:Radio Antena 87.8 (Top 40/Pop)
+http://shoutcast.netsi.net:8250/
+
+#EXTINF:Radio Capodistria 97.7 (World Music)
 http://mp3.rtvslo.si/capo
 
-#EXTINF:Radio Celje
+#EXTINF:Radio Capris 95.6 (Euro Hits)
+http://stream.simple-it.net:8000/live
+
+#EXTINF:Radio Celje 95.1 (Top 40/Pop)
 http://89.142.196.111:9030/
 
-#EXTINF:Radio Center
+#EXTINF:Radio Center 103.7 (Top 40/Pop)
 http://212.18.63.51:8050
 
-#EXTINF:Radio City
+#EXTINF:Radio City 100.6 (Top 40/Pop)
 http://citycast.colo.triera.net:9000/radiocity.mp3
 
-#EXTINF:Radio Dur
+#EXTINF:Radio Dur 103.3 (Country)
 http://ph.dur.si:80/dur
 
-#EXTINF:Radio Ekspres
+#EXTINF:Radio Ekspres 106.4 (Classic Hits)
 http://93.103.13.156:8000/
 
-#EXTINF:Radio Europa 05
+#EXTINF:Radio Europa 05 87.6 (European Music)
 http://radio.amadej.si:8020/
 
-#EXTINF:Radio Gorenc
-http://193.95.229.142:8000/radiogorenc.ogg
-
-#EXTINF:Radio Hit
+#EXTINF:Radio Hit 95.6 (Top 40/Pop)
 http://live.radiohit.si:9560/
 
-#EXTINF:Radio Koper
+#EXTINF:Radio Koper 96.4 (World Music)
 http://94.103.65.137:8000/rakp
 
-#EXTINF:Radio Kranj
-http://www.radio-kranj.si/radio_kranj.m3u
-
-#EXTINF:Radio Krka
+#EXTINF:Radio Krka 106.6 (Euro Hits)
 http://93.103.12.127:8000
 
-#EXTINF:Radio Kum
+#EXTINF:Radio Kum 98.1 (Top 40/Pop)
 http://195.95.158.131:7010/
 
-#EXTINF:Radio Laser
+#EXTINF:Radio Laser 105.2 (Adult Contemporary)
 http://shoutcast.netsi.net:8100/
 
-#EXTINF:Radio Maribor
+#EXTINF:Radio Maribor 93.1 (Top 40/Pop)
 http://mp3.rtvslo.si/rmb
 
-#EXTINF:Radio Mars
+#EXTINF:Radio Mars 95.9 (Adult Contemporary)
 http://radio.pekarna.org:8000/radiomars
 
-#EXTINF:Radio Maxi
+#EXTINF:Radio Maxi 90.0 (Top 40/Pop)
 http://46.150.34.194:8010/
 
-#EXTINF:Radio Murski Val
-http://89.142.197.238:8000/mv.mp3
+#EXTINF:Radio Murski Val 94.6 (News)
+http://webradio.murskival.si:8000/listen.pls?sid=1
 
-#EXTINF:Radio Net FM
-http://www.radionet.si/live.pls
-
-#EXTINF:Radio Odmev
+#EXTINF:Radio Odmev 97.2 (Variety)
 http://odmev.radio-odmev.net:8000/hiq
 
-#EXTINF:Radio Ognjisce (Radio Ognjišce)
+#EXTINF:Radio Ognjisce 104.5 (World Talk)
 http://real.ognjisce.si:8000/ognjisce.mp3
 
-#EXTINF:Radio PACIENT
+#EXTINF:Radio PACIENT 103.3
 http://live.radiopacient.si/mp3
 
-#EXTINF:Radio Plus
-rtsp://90.157.145.55:554/broadcast/live.rm?cloakport=80,554,7070
+#EXTINF:Radio Prlek 88.9 (Top 40/Pop)
+http://212.30.73.249:8000/
 
-#EXTINF:Radio Ptuj
+#EXTINF:Radio Ptuj 89.8 (Adult Contemporary)
 http://stream.radio-ptuj.si:8000/
 
-#EXTINF:Radio Robin
+#EXTINF:Radio Robin 99.5 (World Music)
 mms://live.infonetmedia.si/RadioRobin
 
-#EXTINF:Radio Rogla
+#EXTINF:Radio Rogla 89.4 (Rock)
 http://193.105.67.24:8010
 
-#EXTINF:Radio Salomon
-http://195.95.158.131:8050/
+#EXTINF:Radio S 92.6 (European Music)
+http://live3.infonetmedia.si:8000/radios
 
-#EXTINF:Radio Slovenske Gorice
+#EXTINF:Radio Salomon 101.6 (Electronic and Dance)
+http://www.radiosalomon.si/salomon.m3u
+
+#EXTINF:Radio Slo Koper 96.4 (News)
+http://mp3.rtvslo.si/rakp
+
+#EXTINF:Radio Slovenske Gorice 96.4 (Adult Contemporary)
 http://91.185.194.102:8014/
 
-#EXTINF:Radio Sora
-http://www.radio-sora.si:8000/radio_sora.ogg
+#EXTINF:Radio Sora 91.1 (Local Music)
+http://www.radio-sora.si/radio_sora.m3u
 
-#EXTINF:Radio Sraka
+#EXTINF:Radio Sraka 94.6 (Folk)
 http://193.105.67.24:8006
 
-#EXTINF:Radio Stajerski Val
+#EXTINF:Radio Stajerski Val 93.7 (Oldies)
 http://arisa.onair.si:8004/
 
-#EXTINF:Radio Student
+#EXTINF:Radio Student 89.3 (College Radio)
 http://kruljo.radiostudent.si:8000/hiq
 
 #EXTINF:Radio Terminal
-http://test.radioterminal.si:8000/live
+http://live.radioterminal.si
 
-#EXTINF:Radio Top
+#EXTINF:Radio Top 106.8 (Top 40/Pop)
 http://193.105.67.24:8024
 
-#EXTINF:Radio Triglav
+#EXTINF:Radio Triglav 89.8 (Country)
 http://www.radiotriglav.si:8000
 
-#EXTINF:Radio Velenje
-http://212.18.39.42:8080/
+#EXTINF:Radio Velenje 107.8 (Top 40/Pop)
+http://www.radiovelenje.com/velenje.asx
 
-#EXTINF:Radio Veseljak
+#EXTINF:Radio Veseljak 94.9 (Health)
 http://195.95.158.131:9060
 
-#EXTINF:Radio Zeleni
+#EXTINF:Radio Zeleni 93.1 (News)
 http://212.72.102.17:8000
 
-#EXTINF:Turisticni Radio Potepuh
-http://193.105.67.24:8094/
+#EXTINF:Studio D 103.0 (Variety)
+http://91.185.193.190:8038/
 
-#EXTINF:Val 202
+#EXTINF:Turisticni Radio Potepuh 91.0 (European Music)
+http://streamer1.siradiostream.net/streamredirect/8094/listen.pls
+
+#EXTINF:Val 202 98.9 (News)
 http://mp3.rtvslo.si/val202
 

@@ -2,19 +2,19 @@
 # -*- coding: utf-8 -*-
 
 import xbmc
-from xbmcswift2 import Plugin, ListItem
+from xbmcswift2 import Plugin
 import xbmcaddon
 import os
 import pickle
-import xbmc
 import xbmcgui
 
 plugin = Plugin()
 
 
 def get_stations():
-    filename = os.path.join(xbmcaddon.Addon(plugin.id).getAddonInfo('path'), 'resources',
-                            'stations.pickle')
+    filename = os.path.join(
+        xbmcaddon.Addon(plugin.id).getAddonInfo('path'), 'resources',
+        'stations.pickle')
     src = open(filename, 'r')
     try:
         streams = pickle.load(src)
@@ -41,7 +41,7 @@ def index():
                 'thumbnail': station['img'],
                 'is_playable': False,
                 'info_type': 'music',
-                })
+            })
         except Exception, e:
             print e
             print station
@@ -54,7 +54,8 @@ def index():
 @plugin.route('/live/<id>')
 def startplay(id):
     station = filter(lambda x: x['url'] == id, postaje)[0]
-    li = xbmcgui.ListItem(station['name'], station['name'], station['img'], station['img'])
+    li = xbmcgui.ListItem(station['name'], station[
+                          'name'], station['img'], station['img'])
     li.setInfo('music', {'Title': station['name']})
     xbmc.Player(xbmc.PLAYER_CORE_MPLAYER).play(station['url'], li)
     item = [{
@@ -67,7 +68,7 @@ def startplay(id):
         'is_playable': True,
         'selected': True,
         'info_type': 'music',
-        }]
+    }]
     return item
 
 if __name__ == '__main__':

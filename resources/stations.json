@@ -1,498 +1,514 @@
 [
   {
-    "bitrate": 32, 
-    "id": 6306902, 
+    "bitrate": "32", 
+    "id": "s25579", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s25579q.png", 
-    "label": "Slovenian", 
-    "name": "A1", 
+    "label": "Najbolj objektivne in...", 
+    "name": "A1 91.8 (Community)", 
     "url": "http://mp3.rtvslo.si/ra1"
   }, 
   {
-    "bitrate": 128, 
-    "id": 4605414, 
+    "bitrate": "128", 
+    "id": "s106349", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106349q.png", 
     "label": "Slovenian", 
-    "name": "Alpski Val Radio", 
+    "name": "Alpski Val Radio 88.3 (Top 40/Pop)", 
     "url": "http://193.95.206.178:8000/alpskival"
   }, 
   {
-    "bitrate": 32, 
-    "id": 6306900, 
+    "bitrate": "32", 
+    "id": "s25580", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s25580q.png", 
-    "label": "Slovenian", 
-    "name": "Ars", 
+    "label": "Program Ars oblikujejo...", 
+    "name": "Ars 96.5 (Culture)", 
     "url": "http://mp3.rtvslo.si/ars"
   }, 
   {
-    "bitrate": 112, 
-    "id": 228431, 
+    "bitrate": "112", 
+    "id": "s10160", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s10160q.png", 
     "label": "Slovenian", 
-    "name": "Koroski Radio", 
+    "name": "Koroski Radio 97.2 (World Music)", 
     "url": "http://shoutcast.netsi.net:8300"
   }, 
   {
-    "bitrate": 128, 
-    "id": 1949966, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s48737q.png", 
-    "label": "Libra Radio from Maribor Slovenia, unique...", 
-    "name": "Libra Radio", 
-    "url": "http://radio.pekarna.org:8000/libraradio.ogg"
-  }, 
-  {
-    "bitrate": 128, 
-    "id": 566836, 
+    "bitrate": "128", 
+    "id": "s8674", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s8674q.png", 
-    "label": "Moj Radio obstaja v etru \u0160ale\u0161ke doline od...", 
-    "name": "Moj Radio", 
-    "url": "http://stream.linit.si:8006/"
+    "label": "Z Veseljem Do Dobre Glasbe", 
+    "name": "Moj Radio 107.0 (Top 40/Pop)", 
+    "url": "http://www.mojradio.com/mojradio.m3u"
   }, 
   {
-    "bitrate": 96, 
-    "id": 6306901, 
+    "bitrate": "96", 
+    "id": "s66865", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s66865q.png", 
     "label": "Pomurski Mad\u017earski Radio", 
-    "name": "RTVSLO Muravid\u00e9ki Magyar R\u00e1di\u00f3 (RTVSLO MMR)", 
+    "name": "RTVSLO Muravid\u00e9ki Magyar R\u00e1di\u00f3 87.6 (Community)", 
     "url": "http://mp3.rtvslo.si/mmr"
   }, 
   {
-    "bitrate": 128, 
-    "id": 9098082, 
+    "bitrate": "128", 
+    "id": "s9615", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9615q.png", 
-    "label": "Radio 1 - najbolj poslu\u0161an slovenski radio", 
-    "name": "Radio 1", 
+    "label": "Radio 1 - najbolj poslu\u0161an...", 
+    "name": "Radio 1 89.7 (Euro Hits)", 
     "url": "mms://live3.infonetmedia.si/radio1"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7123112, 
+    "bitrate": "16", 
+    "id": "s9666", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9666q.png", 
+    "label": "Slovenian", 
+    "name": "Radio 1 Bela krajina 89.5 (World Talk)", 
+    "url": "http://live2.radio1.si/Radio1Odeon"
+  }, 
+  {
+    "bitrate": "32", 
+    "id": "s106387", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106387q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Celje", 
+    "name": "Radio 1 Celje 90.3 (Hot AC)", 
     "url": "mms://live.radio1.si/Radio1CE"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7139512, 
+    "bitrate": "32", 
+    "id": "s176291", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s176291q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Dolenjska", 
+    "name": "Radio 1 Dolenjska 88.9", 
     "url": "mms://live.radio1.si/Radio1NM"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7139475, 
+    "bitrate": "32", 
+    "id": "s176287", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s176287q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Koroska", 
+    "name": "Radio 1 Koroska 105.0", 
     "url": "mms://live2.infonetmedia.si/radio1kor"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7139513, 
+    "bitrate": "32", 
+    "id": "s176292", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s176292q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Maribor", 
+    "name": "Radio 1 Maribor 107.9", 
     "url": "mms://live.radio1.si/Radio1MB"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7123067, 
+    "bitrate": "64", 
+    "id": "s9658", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s9658q.png", 
+    "label": "Radio ena je vseslovenski...", 
+    "name": "Radio 1 Obala 93.4 (Hot AC)", 
+    "url": "http://live.radio1.si/Radio1OBALA"
+  }, 
+  {
+    "bitrate": "32", 
+    "id": "s9387", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9387q.png", 
-    "label": "Radio 1 - najbolj poslu\u0161an slovenski radio.", 
-    "name": "Radio 1 Prekmurje", 
+    "label": "Radio 1 - najbolj poslu\u0161an...", 
+    "name": "Radio 1 Prekmurje 102.1 (Electronic and Dance)", 
     "url": "http://live2.infonetmedia.si/radio1pr"
   }, 
   {
-    "bitrate": 128, 
-    "id": 7123069, 
+    "bitrate": "128", 
+    "id": "s106535", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106535q.png", 
     "label": "novo za Ptuj", 
-    "name": "Radio 1 Ptuj", 
+    "name": "Radio 1 Ptuj 92.3 (Top 40/Pop)", 
     "url": "mms://live2.infonetmedia.si/radio1ptuj"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7139477, 
+    "bitrate": "32", 
+    "id": "s176288", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s176288q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Ribnica", 
+    "name": "Radio 1 Ribnica 89.8", 
     "url": "mms://live.radio1.si/Radio1Ribnica"
   }, 
   {
-    "bitrate": 32, 
-    "id": 7139511, 
+    "bitrate": "32", 
+    "id": "s176290", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s176290q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Velenje", 
+    "name": "Radio 1 Velenje 102.5", 
     "url": "mms://live.radio1.si/Radio1VE"
   }, 
   {
-    "bitrate": 128, 
-    "id": 6554415, 
+    "bitrate": "128", 
+    "id": "s106545", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106545q.png", 
     "label": "Slovenian", 
-    "name": "Radio 1 Vrhnika", 
+    "name": "Radio 1 Vrhnika 90.6 (News)", 
     "url": "http://live2.radio1.si/Radio1VR"
   }, 
   {
-    "bitrate": 64, 
-    "id": 1595925, 
+    "bitrate": "64", 
+    "id": "s106362", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106362q.png", 
-    "label": "Slovenian", 
-    "name": "Radio 94", 
+    "label": "Od jutra do ve\u010dera vam ne damo mira", 
+    "name": "Radio 94 98.2 (Variety)", 
     "url": "http://89.212.204.96:8000/hifi"
   }, 
   {
-    "bitrate": 128, 
-    "id": 1098610, 
+    "bitrate": "128", 
+    "id": "s106417", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106417q.png", 
-    "label": "Radio Aktual ponuja glasbo, ki jo na...", 
-    "name": "Radio Aktual", 
+    "label": "Radio narejen za va\u0161a u\u0161esa", 
+    "name": "Radio Aktual 101.2 (Top 40/Pop)", 
     "url": "http://195.95.158.131:9040/"
   }, 
   {
-    "bitrate": 96, 
-    "id": 2706194, 
+    "bitrate": "96", 
+    "id": "s6114", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s6114q.png", 
     "label": "Slovenian", 
-    "name": "Radio Alfa", 
+    "name": "Radio Alfa 103.2 (World Music)", 
     "url": "http://77.234.148.23:9020/"
   }, 
   {
-    "bitrate": 56, 
-    "id": 194754, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s10248q.png", 
-    "label": "Slovenian", 
-    "name": "Radio Antena", 
-    "url": "http://shoutcast.netsi.net:8250/"
-  }, 
-  {
-    "bitrate": 64, 
-    "id": 1102677, 
+    "bitrate": "64", 
+    "id": "s106523", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106523q.png", 
     "label": "Slovenian", 
-    "name": "Radio Antena", 
+    "name": "Radio Antena 105.2 (Top 40/Pop)", 
     "url": "mms://live2.infonetmedia.si/Antena"
   }, 
   {
-    "bitrate": 32, 
-    "id": 6306899, 
+    "bitrate": "56", 
+    "id": "s10248", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s10248q.png", 
+    "label": "Smo lokalna radijska...", 
+    "name": "Radio Antena 87.8 (Top 40/Pop)", 
+    "url": "http://shoutcast.netsi.net:8250/"
+  }, 
+  {
+    "bitrate": "32", 
+    "id": "s18095", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s18095q.png", 
-    "label": "Italian", 
-    "name": "Radio Capodistria", 
+    "label": "Oltre I Confini Del Solito", 
+    "name": "Radio Capodistria 97.7 (World Music)", 
     "url": "http://mp3.rtvslo.si/capo"
   }, 
   {
-    "bitrate": 128, 
-    "id": 1485151, 
+    "bitrate": "128", 
+    "id": "s55140", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s55140q.png", 
+    "label": "Slovenian", 
+    "name": "Radio Capris 95.6 (Euro Hits)", 
+    "url": "http://stream.simple-it.net:8000/live"
+  }, 
+  {
+    "bitrate": "128", 
+    "id": "s9586", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9586q.png", 
-    "label": "Na Stirih Frekvencah", 
-    "name": "Radio Celje", 
+    "label": "Jack Pot", 
+    "name": "Radio Celje 95.1 (Top 40/Pop)", 
     "url": "http://89.142.196.111:9030/"
   }, 
   {
-    "bitrate": 56, 
-    "id": 3011190, 
+    "bitrate": "56", 
+    "id": "s9916", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9916q.png", 
     "label": "The Best Music Mix for Slovenia", 
-    "name": "Radio Center", 
+    "name": "Radio Center 103.7 (Top 40/Pop)", 
     "url": "http://212.18.63.51:8050"
   }, 
   {
-    "bitrate": 128, 
-    "id": 2596693, 
+    "bitrate": "128", 
+    "id": "s16011", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s16011q.png", 
     "label": "Slovenian", 
-    "name": "Radio City", 
+    "name": "Radio City 100.6 (Top 40/Pop)", 
     "url": "http://citycast.colo.triera.net:9000/radiocity.mp3"
   }, 
   {
-    "bitrate": 128, 
-    "id": 3586775, 
+    "bitrate": "128", 
+    "id": "s25109", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s25109q.png", 
     "label": "Slovenian", 
-    "name": "Radio Dur", 
+    "name": "Radio Dur 103.3 (Country)", 
     "url": "http://ph.dur.si:80/dur"
   }, 
   {
-    "bitrate": 128, 
-    "id": 2219706, 
+    "bitrate": "128", 
+    "id": "s9614", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9614q.png", 
-    "label": "veliko glasbe, manj govora (more music, less...", 
-    "name": "Radio Ekspres", 
+    "label": "veliko glasbe, manj govora (more music, less talking", 
+    "name": "Radio Ekspres 106.4 (Classic Hits)", 
     "url": "http://93.103.13.156:8000/"
   }, 
   {
-    "bitrate": 80, 
-    "id": 1165350, 
+    "bitrate": "80", 
+    "id": "s106505", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106505q.png", 
     "label": "Slovenian", 
-    "name": "Radio Europa 05", 
+    "name": "Radio Europa 05 87.6 (European Music)", 
     "url": "http://radio.amadej.si:8020/"
   }, 
   {
-    "bitrate": 112, 
-    "id": 573874, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s9953q.png", 
-    "label": "Slovenian", 
-    "name": "Radio Gorenc", 
-    "url": "http://193.95.229.142:8000/radiogorenc.ogg"
-  }, 
-  {
-    "bitrate": 96, 
-    "id": 202075, 
+    "bitrate": "128", 
+    "id": "s8967", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s8967q.png", 
     "label": "Slovenian", 
-    "name": "Radio Hit", 
+    "name": "Radio Hit 95.6 (Top 40/Pop)", 
     "url": "http://live.radiohit.si:9560/"
   }, 
   {
-    "bitrate": 32, 
-    "id": 4358534, 
+    "bitrate": "32", 
+    "id": "s18094", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s37098q.png", 
     "label": "Slovenian", 
-    "name": "Radio Koper", 
+    "name": "Radio Koper 96.4 (World Music)", 
     "url": "http://94.103.65.137:8000/rakp"
   }, 
   {
-    "bitrate": 112, 
-    "id": 390887, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s9641q.png", 
-    "label": "Slovenian", 
-    "name": "Radio Kranj", 
-    "url": "http://www.radio-kranj.si/radio_kranj.m3u"
-  }, 
-  {
-    "bitrate": 192, 
-    "id": 243458, 
+    "bitrate": "192", 
+    "id": "s16015", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s16015q.png", 
     "label": "Slovenian", 
-    "name": "Radio Krka", 
+    "name": "Radio Krka 106.6 (Euro Hits)", 
     "url": "http://93.103.12.127:8000"
   }, 
   {
-    "bitrate": 128, 
-    "id": 3012903, 
+    "bitrate": "128", 
+    "id": "s106458", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106458q.png", 
     "label": "Slovenian", 
-    "name": "Radio Kum", 
+    "name": "Radio Kum 98.1 (Top 40/Pop)", 
     "url": "http://195.95.158.131:7010/"
   }, 
   {
-    "bitrate": 64, 
-    "id": 595827, 
+    "bitrate": "64", 
+    "id": "s25138", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s25138q.png", 
     "label": "Slovenian", 
-    "name": "Radio Laser", 
+    "name": "Radio Laser 105.2 (Adult Contemporary)", 
     "url": "http://shoutcast.netsi.net:8100/"
   }, 
   {
-    "bitrate": 192, 
-    "id": 4994103, 
+    "bitrate": "192", 
+    "id": "s36090", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s36090q.png", 
     "label": "Regionalni radijski program", 
-    "name": "Radio Maribor", 
+    "name": "Radio Maribor 93.1 (Top 40/Pop)", 
     "url": "http://mp3.rtvslo.si/rmb"
   }, 
   {
-    "bitrate": 128, 
-    "id": 4292272, 
+    "bitrate": "128", 
+    "id": "s9303", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9303q.png", 
     "label": "Mariborski radio \u0161tudent (MARS)", 
-    "name": "Radio Mars", 
+    "name": "Radio Mars 95.9 (Adult Contemporary)", 
     "url": "http://radio.pekarna.org:8000/radiomars"
   }, 
   {
-    "bitrate": 128, 
-    "id": 3832120, 
+    "bitrate": "128", 
+    "id": "s106465", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106465q.png", 
     "label": "Slovenian", 
-    "name": "Radio Maxi", 
+    "name": "Radio Maxi 90.0 (Top 40/Pop)", 
     "url": "http://46.150.34.194:8010/"
   }, 
   {
-    "bitrate": 32, 
-    "id": 2832202, 
+    "bitrate": "32", 
+    "id": "s10960", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s10960q.png", 
     "label": "Slovenian", 
-    "name": "Radio Murski Val", 
-    "url": "http://89.142.197.238:8000/mv.mp3"
+    "name": "Radio Murski Val 94.6 (News)", 
+    "url": "http://webradio.murskival.si:8000/listen.pls?sid=1"
   }, 
   {
-    "bitrate": 64, 
-    "id": 568470, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s18092q.png", 
-    "label": "Slovenian", 
-    "name": "Radio Net FM", 
-    "url": "http://www.radionet.si/live.pls"
-  }, 
-  {
-    "bitrate": 112, 
-    "id": 1100382, 
+    "bitrate": "112", 
+    "id": "s106467", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106467q.png", 
-    "label": "PRIMORSKI VAL je prva slovenska radijska mre\u017ea...", 
-    "name": "Radio Odmev", 
+    "label": "PRIMORSKI VAL je prva...", 
+    "name": "Radio Odmev 97.2 (Variety)", 
     "url": "http://odmev.radio-odmev.net:8000/hiq"
   }, 
   {
-    "bitrate": 32, 
-    "id": 4171860, 
+    "bitrate": "32", 
+    "id": "s10601", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s10601q.png", 
     "label": "Slovenian", 
-    "name": "Radio Ognjisce (Radio Ognji\u0161ce)", 
+    "name": "Radio Ognjisce 104.5 (World Talk)", 
     "url": "http://real.ognjisce.si:8000/ognjisce.mp3"
   }, 
   {
-    "bitrate": 32, 
-    "id": 6033291, 
+    "bitrate": "32", 
+    "id": "s167031", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s167031q.png", 
     "label": "Zdravje s hitrostjo zvoka", 
-    "name": "Radio PACIENT", 
+    "name": "Radio PACIENT 103.3", 
     "url": "http://live.radiopacient.si/mp3"
   }, 
   {
-    "bitrate": 32, 
-    "id": 2718101, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s6084q.png", 
-    "label": "Vedno Vec", 
-    "name": "Radio Plus", 
-    "url": "rtsp://90.157.145.55:554/broadcast/live.rm?cloakport=80,554,7070"
+    "bitrate": "64", 
+    "id": "s106470", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106470q.png", 
+    "label": "VSAK DAN NEKAJ NOVEGA!", 
+    "name": "Radio Prlek 88.9 (Top 40/Pop)", 
+    "url": "http://212.30.73.249:8000/"
   }, 
   {
-    "bitrate": 96, 
-    "id": 364059, 
+    "bitrate": "96", 
+    "id": "s48741", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s48741q.png", 
-    "label": "Slovenian", 
-    "name": "Radio Ptuj", 
+    "label": "Glasbo izbiramo tako, da...", 
+    "name": "Radio Ptuj 89.8 (Adult Contemporary)", 
     "url": "http://stream.radio-ptuj.si:8000/"
   }, 
   {
-    "bitrate": 128, 
-    "id": 2112132, 
+    "bitrate": "128", 
+    "id": "s9689", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9689q.png", 
     "label": "Slovenian", 
-    "name": "Radio Robin", 
+    "name": "Radio Robin 99.5 (World Music)", 
     "url": "mms://live.infonetmedia.si/RadioRobin"
   }, 
   {
-    "bitrate": 32, 
-    "id": 2931082, 
+    "bitrate": "32", 
+    "id": "s105310", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s105310q.png", 
     "label": "Slovenian", 
-    "name": "Radio Rogla", 
+    "name": "Radio Rogla 89.4 (Rock)", 
     "url": "http://193.105.67.24:8010"
   }, 
   {
-    "bitrate": 128, 
-    "id": 1098607, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s16355q.png", 
-    "label": "English", 
-    "name": "Radio Salomon", 
-    "url": "http://195.95.158.131:8050/"
+    "bitrate": "32", 
+    "id": "s123305", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s123305q.png", 
+    "label": "Stran v izdelavi", 
+    "name": "Radio S 92.6 (European Music)", 
+    "url": "http://live3.infonetmedia.si:8000/radios"
   }, 
   {
-    "bitrate": 128, 
-    "id": 6935211, 
+    "bitrate": "128", 
+    "id": "s106473", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s16355q.png", 
+    "label": "RADIO SALOMON:...", 
+    "name": "Radio Salomon 101.6 (Electronic and Dance)", 
+    "url": "http://www.radiosalomon.si/salomon.m3u"
+  }, 
+  {
+    "bitrate": "32", 
+    "id": "s37098", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s37098q.png", 
+    "label": "Slovenian", 
+    "name": "Radio Slo Koper 96.4 (News)", 
+    "url": "http://mp3.rtvslo.si/rakp"
+  }, 
+  {
+    "bitrate": "128", 
+    "id": "s106556", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106556q.png", 
     "label": "Slovenian", 
-    "name": "Radio Slovenske Gorice", 
+    "name": "Radio Slovenske Gorice 96.4 (Adult Contemporary)", 
     "url": "http://91.185.194.102:8014/"
   }, 
   {
-    "bitrate": 138, 
-    "id": 381952, 
+    "bitrate": "138", 
+    "id": "s9368", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9368q.png", 
-    "label": "Smo regionalna radijska postaja s statusom...", 
-    "name": "Radio Sora", 
-    "url": "http://www.radio-sora.si:8000/radio_sora.ogg"
+    "label": "Smo regionalna radijska...", 
+    "name": "Radio Sora 91.1 (Local Music)", 
+    "url": "http://www.radio-sora.si/radio_sora.m3u"
   }, 
   {
-    "bitrate": 112, 
-    "id": 2772780, 
+    "bitrate": "112", 
+    "id": "s106491", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106491q.png", 
     "label": "Slovenian", 
-    "name": "Radio Sraka", 
+    "name": "Radio Sraka 94.6 (Folk)", 
     "url": "http://193.105.67.24:8006"
   }, 
   {
-    "bitrate": 56, 
-    "id": 206967, 
+    "bitrate": "56", 
+    "id": "s1386", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s1386q.png", 
     "label": "Slovenian", 
-    "name": "Radio Stajerski Val", 
+    "name": "Radio Stajerski Val 93.7 (Oldies)", 
     "url": "http://arisa.onair.si:8004/"
   }, 
   {
-    "bitrate": 128, 
-    "id": 595824, 
+    "bitrate": "128", 
+    "id": "s25182", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s25182q.png", 
     "label": "Slovenian", 
-    "name": "Radio Student", 
+    "name": "Radio Student 89.3 (College Radio)", 
     "url": "http://kruljo.radiostudent.si:8000/hiq"
   }, 
   {
-    "bitrate": 32, 
-    "id": 5688086, 
+    "bitrate": "192", 
+    "id": "1", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s164797q.png", 
-    "label": "Internetni radio z urbano godbo", 
+    "label": "Urbani radio", 
     "name": "Radio Terminal", 
-    "url": "http://test.radioterminal.si:8000/live"
+    "url": "http://live.radioterminal.si"
   }, 
   {
-    "bitrate": 160, 
-    "id": 4482774, 
+    "bitrate": "160", 
+    "id": "s9348", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s9348q.png", 
     "label": "Slovenian", 
-    "name": "Radio Top", 
+    "name": "Radio Top 106.8 (Top 40/Pop)", 
     "url": "http://193.105.67.24:8024"
   }, 
   {
-    "bitrate": 128, 
-    "id": 568463, 
+    "bitrate": "128", 
+    "id": "s25190", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s10362q.png", 
-    "label": "Slovenian", 
-    "name": "Radio Triglav", 
+    "label": "Radio Za Radovedne", 
+    "name": "Radio Triglav 89.8 (Country)", 
     "url": "http://www.radiotriglav.si:8000"
   }, 
   {
-    "bitrate": 32, 
-    "id": 1959308, 
+    "bitrate": "32", 
+    "id": "s106493", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s106493q.png", 
     "label": "Slovenian", 
-    "name": "Radio Velenje", 
-    "url": "http://212.18.39.42:8080/"
+    "name": "Radio Velenje 107.8 (Top 40/Pop)", 
+    "url": "http://www.radiovelenje.com/velenje.asx"
   }, 
   {
-    "bitrate": 128, 
-    "id": 843864, 
+    "bitrate": "128", 
+    "id": "s98796", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s98796q.png", 
     "label": "Slovenian", 
-    "name": "Radio Veseljak", 
+    "name": "Radio Veseljak 94.9 (Health)", 
     "url": "http://195.95.158.131:9060"
   }, 
   {
-    "bitrate": 80, 
-    "id": 595820, 
+    "bitrate": "80", 
+    "id": "s10066", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s10066q.png", 
     "label": "Polni Pozitive", 
-    "name": "Radio Zeleni", 
+    "name": "Radio Zeleni 93.1 (News)", 
     "url": "http://212.72.102.17:8000"
   }, 
   {
-    "bitrate": 112, 
-    "id": 2914738, 
-    "img": "http://d1i6vahw24eb07.cloudfront.net/s106650q.png", 
-    "label": "Slovenian", 
-    "name": "Turisticni Radio Potepuh", 
-    "url": "http://193.105.67.24:8094/"
+    "bitrate": "128", 
+    "id": "s106510", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106510q.png", 
+    "label": "radio narejen za va\u0161a u\u0161esa.", 
+    "name": "Studio D 103.0 (Variety)", 
+    "url": "http://91.185.193.190:8038/"
   }, 
   {
-    "bitrate": 128, 
-    "id": 6306903, 
+    "bitrate": "112", 
+    "id": "s106650", 
+    "img": "http://d1i6vahw24eb07.cloudfront.net/s106650q.png", 
+    "label": "Slovenian", 
+    "name": "Turisticni Radio Potepuh 91.0 (European Music)", 
+    "url": "http://streamer1.siradiostream.net/streamredirect/8094/listen.pls"
+  }, 
+  {
+    "bitrate": "128", 
+    "id": "s25581", 
     "img": "http://d1i6vahw24eb07.cloudfront.net/s25581q.png", 
     "label": "Ujame vse", 
-    "name": "Val 202", 
+    "name": "Val 202 98.9 (News)", 
     "url": "http://mp3.rtvslo.si/val202"
   }
 ]
