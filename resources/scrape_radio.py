@@ -28,7 +28,7 @@ za_izvoz.append({
 })
 
 req = requests.get("http://opml.radiotime.com/Browse.ashx?id=r100411")
-if req.status_code is 200:
+if req.status_code == 200:
     page = PyQuery(req.text.encode("utf-8"))
     for link in page("outline"):
 
@@ -50,36 +50,26 @@ if req.status_code is 200:
 
 za_izvoz.sort(key=lambda postaja: postaja['name'])
 
-print "Število postaj: %d" % len(za_izvoz)
+print(f"Število postaj: {len(za_izvoz)}")
 
 # native
 
 try:
     pstat = open('stations.pickle', 'w')
     pickle.dump(za_izvoz, pstat)
-except Exception, e:
-    print e
+except Exception as e:
+    print(e)
 
 # json
 
 try:
-    jstat = codecs.open('stations.json', 'w', 'utf-8')
-    json.dump(za_izvoz, jstat, sort_keys=True, indent=2)
+    jstat = open("stations.json", "w")
+    data = json.dumps(za_izvoz, sort_keys=True, indent=2)
+    print(data)
+    jstat.write(data)
     jstat.close()
-except Exception, e:
-    print e
+except Exception as e:
+    print(e)
 
-# m3u
-
-mstat = codecs.open('stations.m3u', 'w', 'utf-8')
-print >> mstat, '#EXTM3U'
-for x in za_izvoz:
-    try:
-        print >> mstat, '#EXTINF:' + x['name']
-        print >> mstat, x['url'] + '\n'
-    except Exception, e:
-        print e
-
-mstat.close()
 
 # lame print json.dumps(stations, sort_keys=True, indent=2)
